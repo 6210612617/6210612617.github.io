@@ -10,5 +10,4 @@
 <p align  ="center">graduated from Suankularb Wittayalai Nonthaburi School</p>
 
 <p align  ="center">nice to meet you</p>
-<style>H2{color:DarkSlateBlue;}</style>
-<style>p{color:SlateBlue;}</style>
+
